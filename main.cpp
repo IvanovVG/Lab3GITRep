@@ -72,7 +72,7 @@ int main()
 	ifstream fin;
 	ofstream fout;
 	Text t1;
-	Text t223;
+	Text t22431313;
 	menu(t1, fin, fout);
 	cout << "Hello World 23!" << endl;
 }

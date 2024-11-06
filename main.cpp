@@ -74,5 +74,6 @@ int main()
 	Text t1;
 	Text t2;
 	menu(t1, fin, fout);
+	cout << "Привет мир!" << endl;
 	cout << "Hello World 23!" << endl;
 }

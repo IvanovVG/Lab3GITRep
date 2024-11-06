@@ -30,6 +30,7 @@ public:
 	void Out(ostream&)const;
 	void In(istream&);
 	void Variant(string);
+	// new line
 };
 
 ostream& operator<<(ostream&, const Text&);

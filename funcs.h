@@ -23,6 +23,7 @@ public:
 	Text(const Text& T) : size(T.size), vctr(T.vctr) {}
 	Text(size_t _size) : size(_size) {}
 	~Text();
+	// another new line
 
 	void clear();
 	bool isempty();

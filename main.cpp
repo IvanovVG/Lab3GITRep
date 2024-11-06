@@ -73,4 +73,5 @@ int main()
 	ofstream fout;
 	Text t1;
 	menu(t1, fin, fout);
+	cout << "Hello World!" << endl;
 }

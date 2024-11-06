@@ -27,6 +27,7 @@ void Text::Out(ostream& fout)const
 	if (vctr.empty())
 	{
 		fout << "Массив пуст.";
+		fout << "Hello World!";
 	}
 	else
 	{
